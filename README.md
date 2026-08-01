@@ -3,7 +3,9 @@
 **Secure AI Hackathon — Track 1: Security Reasoning Agent**
 Seattle Data AI & Security Community
 
-Built by [Atchyut](https://github.com/ShivVIT2019) and [Shreya](https://github.com/ssb1506)
+Built by:
+
+[Atchyut](https://github.com/ShivVIT2019) and [Shreya](https://github.com/ssb1506)
 
 ## Problem
 
@@ -112,7 +114,8 @@ Response:
   independent rules/regex layer — a good next step for future iteration.
 - No persistent storage/audit log in this version; each request is stateless.
 
-## Team
+## Team 
 
+**Binghamton University**
 - **Atchyut** ([ShivVIT2019](https://github.com/ShivVIT2019)) — FastAPI backend, Gemini integration, prompt design
-- **Shreya** ([ssb1506](https://github.com/ssb1506)) — Frontend, testing, demo
+- **Shreya** ([ssb1506](https://github.com/ssb1506)) — Frontend, testing, demo,Presentation Preparation
