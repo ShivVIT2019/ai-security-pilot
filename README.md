@@ -3,7 +3,7 @@
 **Secure AI Hackathon — Track 1: Security Reasoning Agent**
 Seattle Data AI & Security Community
 
-Vide Link - https://youtu.be/vnnTWP0wkrs
+Video Link - https://youtu.be/vnnTWP0wkrs
 
 
 Built by:
